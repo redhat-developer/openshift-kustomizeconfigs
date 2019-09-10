@@ -3,7 +3,7 @@ Kustomize configs for OpenShift types like BuildConfigs, Imagestreams, Deploymen
 
 ### How to use it with your openshift objects
 
-1. Download and copy over the [kustomizeconfig](../master/kustomizeconfig) directory into your `$TEMPLATE_HOME` directory.
+1. Download and copy over the [kustomizeconfig](../master/kustomizeconfig) directory into `$TEMPLATE_HOME/kustomizeconfig`.
 2. Update your kustomization.yaml to include all the `configurations` in [kustomization.yaml](../master/kustomization.yaml)
 
 

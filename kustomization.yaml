@@ -1,2 +1,4 @@
 configurations: 
   - kustomizeconfig/imagestream.yaml
+  - kustomizeconfig/buildconfig.yaml
+  - kustomizeconfig/deploymentconfig.yaml

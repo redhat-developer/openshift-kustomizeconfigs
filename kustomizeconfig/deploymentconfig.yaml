@@ -1,0 +1,3 @@
+images:
+  - path: spec/spec/containers/image
+    kind: DeploymentConfig

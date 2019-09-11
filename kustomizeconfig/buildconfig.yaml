@@ -1,0 +1,6 @@
+images:
+- path: spec/strategy/sourceStrategy/from/name
+  kind: BuildConfig
+- path: spec/output/to/name
+  kind: BuildConfig
+
